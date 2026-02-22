@@ -51,6 +51,6 @@ in the Chicago, IL and Detroit/Dearborn, MI areas.
 - Black Girls Hack (BGH)
 
 ##Connect With Me
-- LinkedIn: [linkedin.com/in/andrine-lassiter-17a60464]
+- LinkedIn: [www.linkedin.com/in/andrine-lassiter-17a60464]
 - Email: [melvinalassiter@outlook.com]
 - Location: Detroit/Dearborn, MI or Chicago,IL (relocating August 2026)
