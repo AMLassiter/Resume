@@ -22,4 +22,35 @@ Cybersecurity professional with CompTIA Security+ and Google Cybersecurity Profe
 |Scripting | Python, SQL, Bash, Powershell, Windows CMD                     |
 | Support  | Help Desk, Technical Writing, Troubleshooting Methodology      |
 
-## Featured Projects 
+## Featured Projects
+- [Resume](./AM_Lassiter_Resume.pdf) - Professional resume
+- [Command Line Toolkit](#) - Windows CMD & PowerShell reference scripts (coming soon)
+- [Windows Admin Labs](#) - System administration & diagnostic tools documentation (coming soon)
+- [Hardware Troubleshooting](#) - Component identification & repair guides (coming soon)
+- [Networking Labs](#) - Cisco Packet Tracer builds & subnetting (coming soon)
+- [Server Config Labs](#) - Server Setup and configuration documentation (coming soon)
+- [Technical Writing Samples](#) - User guides, FAQs, and KB articles (coming soon)
+- [Security Best Practices](#) - Policies, incident response, compliance (coming soon)
+
+## Career Overview
+Transitioning from 14 years in STEM education to cybersecurity, bringing
+deep experience in analytical thinking, technical troubleshooting, and
+communicating complex concepts to diverse audiences. Currently completing
+A+ certification coursework, Cisco CCNA networking, and server
+configuration while actively pursuing cybersecurity analyst positions
+in the Chicago, IL and Detroit/Dearborn, MI areas.
+
+## Currently Learning
+- CompTIA A+ Core 1 & Core 2 preparation
+- Cisco CCNA Introduction to Networks
+- Windows Server administration and configuration
+- IPv4/IPv6 subnetting and VLSM addressing
+
+## Professional Affiliations
+- Women in Cybersecurity (WiCys) - Mentorship Program
+- Black Girls Hack (BGH)
+
+##Connect With Me
+- LinkedIn: [linkedin.com/in/andrine-lassiter-17a60464]
+- Email: [melvinalassiter@outlook.com]
+- Location: Detroit/Dearborn, MI or Chicago,IL (relocating August 2026)
